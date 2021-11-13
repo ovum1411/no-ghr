@@ -1,4 +1,4 @@
-const nameGirl = 'Em bé';
+const nameGirl = '';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100038400270844';
 const eventName = 'Chúc Mừng Sinh Nhật ';
 const titleCard = 'Tặng Minh Châu';
